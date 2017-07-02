@@ -38,5 +38,3 @@ then
     read backupDir
     tar -cvf "$location"/${l_date}_custom-backup.tar "$backupDir"
 fi
-
-#tar -cvf /media/m/TOSHIBA EXT/linux_backups/backup_${l_date}.tar /
